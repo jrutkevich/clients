@@ -9,4 +9,3 @@ Clients I have worked with:
 | [GPsupport](https://gpsupport.com.au/) | Tullamarine, VIC |
 | [Rapid Protection](https://rapidprotection.com.au/products/) | Mansfield, QLD |
 | [Cerbis Ceramics NT](https://cerbisceramicsnt.com.au/) | Winnellie, NT |
-| [WorkSafe Connect Confined Space Training](https://www.worksafeconnect.com/courses/confined-space-entry) | Brisbane, Australia |
